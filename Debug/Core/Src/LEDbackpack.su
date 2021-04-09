@@ -1,0 +1,7 @@
+LEDbackpack.c:125:6:setBrightness	32	static
+LEDbackpack.c:132:6:blinkRate	32	static
+LEDbackpack.c:140:6:HKbegin	24	static
+LEDbackpack.c:157:6:writeDisplay	40	static
+LEDbackpack.c:168:6:clear	16	static
+LEDbackpack.c:176:6:writeDigitRaw	16	static
+LEDbackpack.c:180:6:writeDigitAscii	24	static
